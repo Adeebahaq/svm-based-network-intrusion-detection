@@ -1,0 +1,10 @@
+{
+  "binary_svm": {
+    "C": 10,
+    "gamma": 0.1
+  },
+  "multiclass_svm": {
+    "C": 100,
+    "gamma": 0.1
+  }
+}
